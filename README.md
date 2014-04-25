@@ -9,6 +9,10 @@ To use this component, first include the `'bootstrapSelectButton` module in your
 
     <div bootstrap-select-button options="bindableOptionsSet" selected-option="bindableSelectedOption"></div>
 
+Here are some demos on JS Fiddle:
+ * [Basic configuration, displaying a set of strings](http://jsfiddle.net/gh/get/library/pure/bvaughn/bootstrap-select-button/tree/master/demo/set-of-strings)
+ * [Advanced configuration, displaying a set of objects](http://jsfiddle.net/gh/get/library/pure/bvaughn/bootstrap-select-button/tree/master/demo/set-of-objects)
+
 ----
 ## What configuration options does the bootstrapSelectButton support?
 
