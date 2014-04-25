@@ -54,13 +54,14 @@ angular.module('bootstrapSelectButton').directive('bootstrapSelectButton',
                         return;
                     }
 
-                    _.each($scope.options,
-                        function(option) {
-                            $scope.bindableOptions.push({
-                                label: optionLabelFilter(option),
-                                icon: optionIconFilter(option)
-                            });
+                    for ( var index = 0; index < $scope.options.length; index++ ) {
+                        var option = $scope.options[index];
+
+                        $scope.bindableOptions.push({
+                            label: optionLabelFilter(option),
+                            icon: optionIconFilter(option)
                         });
+                    }
 
                     updateBindableSelectedOption();
                 };
