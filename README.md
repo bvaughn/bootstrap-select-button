@@ -5,7 +5,7 @@ This component is designed for use with [Angular 1.2.x - 1.3x](https://angularjs
 ----
 ## How do I use the bootstrapSelectButton
 
-To use this component, simply add the following attributes to a any DOM element:
+To use this component, first include the `'bootstrapSelectButton` module in your application. Next simply add the following attributes to a any DOM element:
 
     <div bootstrap-select-button options="bindableOptionsSet" selected-option="bindableSelectedOption"></div>
 
