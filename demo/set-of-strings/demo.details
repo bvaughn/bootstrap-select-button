@@ -6,7 +6,7 @@
  resources:
    - http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css
    - http://code.jquery.com/jquery-1.11.0.min.js
-   - https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js
+   - http://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js
    - http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
    - http://rawgit.com/bvaughn/bootstrap-select-button/master/dist/bootstrap-select-button.js
  normalize_css: no
