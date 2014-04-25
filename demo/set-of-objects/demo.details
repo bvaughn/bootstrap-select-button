@@ -1,5 +1,5 @@
 ---
- name: Advanced Bootstrap Select Button demo
+ name: Bootstrap Select Button Demo
  description: This shows an advanced configuration, an Array of Objects
  authors:
    - Brian Vaughn

@@ -1,5 +1,5 @@
 ---
- name: Simple Basic configuration: Array of Strings
+ name: Bootstrap Select Button Demo
  description: This shows the most basic configuration, an Array of Strings
  authors:
    - Brian Vaughn
