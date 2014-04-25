@@ -3,6 +3,7 @@ angular.module('bootstrapSelectButton').directive('bootstrapSelectButton',
     function() {
         return {
             templateUrl: 'bootstrap-select-button.html',
+            restrict: 'AE',
             replace: true,
             scope: {
                 options: '=',
