@@ -1,0 +1,14 @@
+---
+ name: Advanced Bootstrap Select Button demo
+ description: This shows an advanced configuration, an Array of Objects
+ authors:
+   - Brian Vaughn
+ resources:
+   - http://code.jquery.com/jquery-1.11.0.min.js
+   - http://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js
+   - http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js
+   - http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css
+   - http://rawgit.com/bvaughn/bootstrap-select-button/master/dist/bootstrap-select-button.js
+   - http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css
+ normalize_css: no
+ ...
