@@ -17,10 +17,7 @@ Next you'll need to include the `bootstrapSelectButton` module in your applicati
 
 Lastly, simply add the following attributes to a any DOM element:
 
-    <div bootstrap-select-button
-         options="bindableOptionsSet"
-         selected-option="bindableSelectedOption">
-    </div>
+    <bootstrap-select-button options="bindableOptionsSet" selected-option="bindableSelectedOption" />
 
 ## Configuration Options
 
